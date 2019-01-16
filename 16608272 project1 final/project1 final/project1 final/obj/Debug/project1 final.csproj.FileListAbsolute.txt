@@ -1,0 +1,6 @@
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\bin\Debug\project1 final.exe.config
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\bin\Debug\project1 final.exe
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\bin\Debug\project1 final.pdb
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\obj\Debug\project1 final.csprojResolveAssemblyReference.cache
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\obj\Debug\project1 final.exe
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\project1 final\project1 final\obj\Debug\project1 final.pdb
